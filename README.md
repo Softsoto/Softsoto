@@ -34,9 +34,10 @@ Multi-comercio, panel de pedidos, reportes, cupones, domicilios, planes y códig
 
 > La mayoría del código es **privado**. Con gusto doy acceso de solo lectura a quien quiera revisarlo.
 
-### 🖥️ Aplicaciones de escritorio (C# / .NET)
+### 🖥️ Aplicaciones de escritorio
 | Proyecto | Qué hace |
 |---|---|
+| **PDF Studio** | Editor de PDF de escritorio completo (Electron): editar, anotar, firmar, OCR, formularios y exportar a Office. ~60 herramientas. |
 | **OmniCare** | Centro de control universal para Windows con funciones por marca (ASUS, Lenovo, Dell, HP, Acer, MSI, Surface). |
 | **VeloxDM** | Gestor de descargas: segmentación dinámica, colas, vídeo, BitTorrent y extensión de navegador. |
 | **Mercado Manager** | Administra una tienda de Mercado Libre desde el escritorio, 100% local, con la API oficial. |

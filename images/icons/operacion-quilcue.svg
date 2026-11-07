@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="operacion-quilcue">
+  <!-- © 2026 Sebastian Sotomontes -->
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b4ef45"/><stop offset="1" stop-color="#3f9e2c"/></linearGradient></defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <path d="M9 52h17M37 38h18" fill="none" stroke="#0d0e11" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M17 44c0-22 22-30 30-13" fill="none" stroke="#0d0e11" stroke-dasharray="1 7" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="17" cy="44" r="4.5" fill="#0d0e11"/><path d="M47 16l2 5 5 .5-4 3.500 1 5-4-3-4 3 1-5-4-3.500 5-.5z" fill="none" stroke="#0d0e11" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

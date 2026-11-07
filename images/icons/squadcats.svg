@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="squadcats">
+  <!-- © 2026 Sebastian Sotomontes -->
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9176ff"/><stop offset="1" stop-color="#3457e6"/></linearGradient></defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <path d="M13 12l11 9h16l11-9v24c0 11-8 17-19 17s-19-6-19-17z" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="24" cy="35" r="3.5" fill="#ffffff"/><circle cx="40" cy="35" r="3.5" fill="#ffffff"/><path d="M29 43c2 2 4 2 6 0" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

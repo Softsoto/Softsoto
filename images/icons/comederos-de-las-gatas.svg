@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="comederos-de-las-gatas">
+  <!-- © 2026 Sebastian Sotomontes -->
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7c9c"/><stop offset="1" stop-color="#c9367e"/></linearGradient></defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <ellipse cx="32" cy="42" rx="13" ry="10.5" fill="#ffffff" transform="rotate(0 32 42)"/><ellipse cx="13.5" cy="31" rx="5" ry="6.5" fill="#ffffff" transform="rotate(-20 13.5 31)"/><ellipse cx="24" cy="19" rx="5" ry="7" fill="#ffffff" transform="rotate(-8 24 19)"/><ellipse cx="40" cy="19" rx="5" ry="7" fill="#ffffff" transform="rotate(8 40 19)"/><ellipse cx="50.5" cy="31" rx="5" ry="6.5" fill="#ffffff" transform="rotate(20 50.5 31)"/>
+</svg>

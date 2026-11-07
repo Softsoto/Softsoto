@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="hd-guardian">
+  <!-- © 2026 Sebastian Sotomontes -->
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2bb6e8"/><stop offset="1" stop-color="#2c5fe0"/></linearGradient></defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <path d="M32 9l20 7v15c0 12-8 19-20 24-12-5-20-12-20-24V16z" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="32" cy="30" r="9" fill="none" stroke="#ffffff" stroke-width="3.5"/><circle cx="32" cy="30" r="2.5" fill="#ffffff"/>
+</svg>

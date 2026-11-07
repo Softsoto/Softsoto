@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="limpiador-metadatos">
+  <!-- © 2026 Sebastian Sotomontes -->
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5ad0c8"/><stop offset="1" stop-color="#17678f"/></linearGradient></defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <path d="M46 9L26 33" fill="none" stroke="#0d0e11" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M18 31l16 13-8 11H12l-2-6z" fill="none" stroke="#0d0e11" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M19 45l-3 10M26 44l-2 10" fill="none" stroke="#0d0e11" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

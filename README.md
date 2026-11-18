@@ -28,7 +28,23 @@ Me gusta el software <b>local</b>, que funciona sin servidores ni cuentas, <b>bi
   <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
 </p>
 
-> Cada repositorio es una **presentación**: capturas, cómo se usa y cómo funciona por dentro. El código vive en repositorios privados.
+### Proyecto principal
+
+<p align="center">
+  <a href="https://github.com/Softsoto/SotosWeb"><img src="images/sotos-web-banner.png" alt="Sotos Web, ordenador en la nube" width="100%"></a>
+</p>
+
+<p align="center">
+  <img src="images/icons/sotos-web.svg" width="56" height="56" alt=""><br>
+  <a href="https://github.com/Softsoto/SotosWeb"><b>Sotos Web</b></a>: un ordenador completo dentro del navegador, con archivos en la nube, Word, Excel y PowerPoint, correo, WhatsApp, calendario, mundos compartidos, bóveda cifrada y su propia identidad visual. Código abierto (MIT) y un homenaje a inevio.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Softsoto/SotosWeb"><img src="https://img.shields.io/badge/Sotos%20Web-v3.0-c4532f?style=for-the-badge" alt="Sotos Web 3.0"></a>
+  <img src="https://img.shields.io/badge/Licencia-MIT-4f7a3a?style=for-the-badge" alt="MIT">
+</p>
+
+> Cada repositorio es una **presentación**: capturas, cómo se usa y cómo funciona por dentro. El código vive en repositorios privados, salvo Sotos Web, que es de código abierto.
 
 ### Aplicaciones de escritorio
 
@@ -53,6 +69,7 @@ Me gusta el software <b>local</b>, que funciona sin servidores ni cuentas, <b>bi
 
 | | Proyecto | Qué hace | Versión | Lo último |
 |:-:|---|---|:-:|---|
+| <img src="images/icons/sotos-web.svg" width="36" height="36" alt=""> | [**Sotos Web**](https://github.com/Softsoto/SotosWeb)<br><sub>React · Node.js · SQLite · Docker</sub> | Ordenador en la nube: escritorio con ventanas, archivos reales, Office, correo, WhatsApp, mundos compartidos y bóveda cifrada, en cualquier navegador. | `v3.0`<br><sub>Estable</sub> | Lanzamiento oficial: WhatsApp nativo, bóveda secreta, Paint, Diagramas y películas MKV. |
 | <img src="images/icons/comanda.svg" width="36" height="36" alt=""> | [**Comanda**](https://github.com/Softsoto/comanda)<br><sub>Next.js 16 · TypeScript · PostgreSQL</sub> | Menú digital gratis para pequeños negocios: el cliente arma su pedido desde el celular y llega por WhatsApp. | `v1.0`<br><sub>Funcional</sub> | Multi-comercio con panel, reportes, cupones y código QR. |
 | <img src="images/icons/crm-personal.svg" width="36" height="36" alt=""> | [**CRM Personal**](https://github.com/Softsoto/CRM-Personal)<br><sub>HTML · JavaScript · Node</sub> | Panel personal todo en uno: credenciales, 2FA, notas, proyectos, finanzas, recibos y suscripciones. | `v1.0`<br><sub>Funcional</sub> | Panel con patrimonio, gastos y recordatorios. |
 | <img src="images/icons/epic-intelligence.svg" width="36" height="36" alt=""> | [**Epic Intelligence**](https://github.com/Softsoto/epic-intelligence)<br><sub>HTML · JavaScript</sub> | Convierte el PDF de exportación de datos de una cuenta de Epic Games en un panel claro, todo en el navegador. | `v1.2`<br><sub>Funcional</sub> | Interfaz en español e inglés. |
